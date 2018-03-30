@@ -1,5 +1,11 @@
 # ENSC251
-### PLEASE NOTE THAT THIS WAS WRITTEN IN ECLIPSE, WITHIN A LINUX ENVIRONMENT, AND WITH THE LINUX - X86_64 GNU COMPILER 
+### REQUIREMENTS TO RUN TESTS
+
+*WRITTEN IN ECLIPSE
+*LINUX ENVIRONMENT
+*LINUX - X86_64 GNU COMPILER
+
+WRITTEN IN ECLIPSE, WITHIN A LINUX ENVIRONMENT, AND WITH THE LINUX - X86_64 GNU COMPILER 
 In ENSC 251, we created a C++ subset language that would parse through C++ source code, construct an Abstract Syntax Tree, and evaluate the statements represented by the tree. 
 
 Throughout the semester we continued to build off previous parts, up until part 5, where we completed our subset C++ Language.
