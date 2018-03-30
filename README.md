@@ -1,9 +1,9 @@
 # ENSC251
 ### REQUIREMENTS TO RUN TESTS
 
-*WRITTEN IN ECLIPSE
-*LINUX ENVIRONMENT
-*LINUX - X86_64 GNU COMPILER
+* WRITTEN IN ECLIPSE
+* LINUX ENVIRONMENT
+* LINUX - X86_64 GNU COMPILER
 
 WRITTEN IN ECLIPSE, WITHIN A LINUX ENVIRONMENT, AND WITH THE LINUX - X86_64 GNU COMPILER 
 In ENSC 251, we created a C++ subset language that would parse through C++ source code, construct an Abstract Syntax Tree, and evaluate the statements represented by the tree. 
