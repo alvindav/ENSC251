@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;gdbinit, Part2-1174 Debug-TestRunner.launch, Part2-1174-noReverseAtStartup.launch, Part2-1174-withReverseAtStartup.launch&apos; to &apos;Part_2&apos;" description="Move 4 resources to &apos;Part_2&apos;" destination="/Part_2" element1="/Part2/gdbinit" element2="/Part2/Part2-1174 Debug-TestRunner.launch" element3="/Part2/Part2-1174-noReverseAtStartup.launch" element4="/Part2/Part2-1174-withReverseAtStartup.launch" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="4" stamp="1521748559892" updateReferences="true"/>
+</session>

@@ -1,0 +1,26 @@
+23:37:08 **** Incremental Build of configuration Debug for project Part2 ****
+make all 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+In file included from ../src/tokenClassifier.cpp:37:0:
+../src/tokenClasses.hpp: In constructor ‘ensc251::StringBasedToken::StringBasedToken(const string&, int, int)’:
+../src/tokenClasses.hpp:36:14: warning: ‘ensc251::StringBasedToken::stringValue’ will be initialized after [-Wreorder]
+  std::string stringValue;
+              ^
+../src/tokenClasses.hpp:39:129: warning:   base ‘ensc251::Token’ [-Wreorder]
+  StringBasedToken(const std::string &aStringValue, int lineNum, int indexNum):stringValue(aStringValue), Token(lineNum, indexNum){};
+                                                                                                                                 ^
+../src/tokenClasses.hpp:39:2: warning:   when initialized here [-Wreorder]
+  StringBasedToken(const std::string &aStringValue, int lineNum, int indexNum):stringValue(aStringValue), Token(lineNum, indexNum){};
+  ^
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part2
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part2"  ./src/TestPart2.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part2
+ 
+
+23:37:13 Build Finished (took 4s.931ms)
+

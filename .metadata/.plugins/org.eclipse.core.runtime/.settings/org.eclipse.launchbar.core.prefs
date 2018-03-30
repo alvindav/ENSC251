@@ -1,0 +1,12 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Part4-1174.exe,org.eclipse.launchbar.core.descriptorType.default\:Part3-1174,org.eclipse.launchbar.core.descriptorType.default\:Part2,org.eclipse.launchbar.core.descriptorType.default\:Part5-1174 Debug -TestsRunner,org.eclipse.launchbar.core.descriptorType.default\:Part5-1174
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Part2-1174\ Debug-TestRunner/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Part2-1174\ Debug-TestRunner/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Part2/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Part2/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Part3-1174/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Part4-1174.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Part4-1174.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Part5-1174/activeLaunchMode=run

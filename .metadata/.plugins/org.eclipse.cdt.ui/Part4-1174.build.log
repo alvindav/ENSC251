@@ -1,0 +1,15 @@
+23:36:15 **** Incremental Build of configuration Debug for project Part4-1174 ****
+make all 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building target: Part4-1174.exe
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part4-1174.exe"  ./src/TestPart4.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part4-1174.exe
+ 
+
+23:36:20 Build Finished (took 4s.743ms)
+

@@ -1,0 +1,25 @@
+23:36:37 **** Incremental Build of configuration Debug for project Part3-1174 ****
+make all 
+Building file: ../src/Test.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -DUSE_OSS -I"/usr/include" -O0 -g3 -c -fmessage-length=0 -MMD -MP -MF"src/Test.d" -MT"src/Test.o" -o "src/Test.o" "../src/Test.cpp"
+Finished building: ../src/Test.cpp
+ 
+Building file: ../src/TreeNode.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -DUSE_OSS -I"/usr/include" -O0 -g3 -c -fmessage-length=0 -MMD -MP -MF"src/TreeNode.d" -MT"src/TreeNode.o" -o "src/TreeNode.o" "../src/TreeNode.cpp"
+Finished building: ../src/TreeNode.cpp
+ 
+Building file: ../src/makeDirectoryTree.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -DUSE_OSS -I"/usr/include" -O0 -g3 -c -fmessage-length=0 -MMD -MP -MF"src/makeDirectoryTree.d" -MT"src/makeDirectoryTree.o" -o "src/makeDirectoryTree.o" "../src/makeDirectoryTree.cpp"
+Finished building: ../src/makeDirectoryTree.cpp
+ 
+Building target: Part3-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part3-1174"  ./src/Test.o ./src/TreeNode.o ./src/makeDirectoryTree.o   -l"boost_unit_test_framework" -l"boost_system" -l"boost_filesystem"
+Finished building target: Part3-1174
+ 
+
+23:36:53 Build Finished (took 15s.723ms)
+

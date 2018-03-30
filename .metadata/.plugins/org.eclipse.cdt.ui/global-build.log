@@ -1,0 +1,2400 @@
+01:02:01 **** Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/TreeNode.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TreeNode.d" -MT"src/TreeNode.o" -o "src/TreeNode.o" "../src/TreeNode.cpp"
+Finished building: ../src/TreeNode.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+01:03:58 **** Build of configuration Default for project Part5-1174 ****
+make all 
+make: *** No rule to make target 'all'.  Stop.
+01:06:57 **** Incremental Build of configuration Default for project Part5-1174 ****
+make all 
+make: *** No rule to make target 'all'.  Stop.
+01:07:26 **** Incremental Build of configuration Default for project Part5-1174 ****
+make all 
+make: *** No rule to make target 'all'.  Stop.
+01:08:05 **** Incremental Build of configuration Default for project Part5-1174 ****
+make all 
+make: *** No rule to make target 'all'.  Stop.
+01:12:58 **** Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/TreeNode.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TreeNode.d" -MT"src/TreeNode.o" -o "src/TreeNode.o" "../src/TreeNode.cpp"
+Finished building: ../src/TreeNode.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+01:13:18 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+01:13:36 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+01:13:45 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+01:14:06 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+01:14:22 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+01:15:56 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+01:21:54 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘ensc251::shared_ptr_to_constant ensc251::type_spec::ofTypeCreateConstant(ensc251::shared_ptr_to_constant)’:
+../src/tokenClasses.hpp:328:32: error: ‘class ensc251::constant’ has no member named ‘putValueIntoChar’
+    return constToCreateFromSP->putValueIntoChar();
+                                ^
+../src/tokenClasses.hpp:330:32: error: ‘class ensc251::constant’ has no member named ‘putValueIntoFloat’
+    return constToCreateFromSP->putValueIntoFloat();
+                                ^
+../src/tokenClasses.hpp: In member function ‘ensc251::shared_ptr_to_constant ensc251::numeric_const<T>::putValueIntoChar()’:
+../src/tokenClasses.hpp:601:111: error: there are no arguments to ‘shared_ptr_to_consttant’ that depend on a template parameter, so a declaration of ‘shared_ptr_to_consttant’ must be available [-fpermissive]
+  shared_ptr_to_constant putValueIntoChar() { return shared_ptr_to_consttant(new numeric_int_const<char>(value));}
+                                                                                                               ^
+../src/tokenClasses.hpp:601:111: note: (if you use ‘-fpermissive’, G++ will accept your code, but allowing the use of an undeclared name is deprecated)
+../src/tokenClasses.hpp: In member function ‘ensc251::shared_ptr_to_constant ensc251::numeric_const<T>::putValueIntoFloat()’:
+../src/tokenClasses.hpp:602:113: error: there are no arguments to ‘shared_ptr_to_consttant’ that depend on a template parameter, so a declaration of ‘shared_ptr_to_consttant’ must be available [-fpermissive]
+  shared_ptr_to_constant putValueIntoFloat() { return shared_ptr_to_consttant(new numeric_int_const<float>(value));}
+                                                                                                                 ^
+make: *** [src/TestPart5.o] Error 1
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+01:23:28 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘ensc251::shared_ptr_to_constant ensc251::numeric_const<T>::putValueIntoChar()’:
+../src/tokenClasses.hpp:603:111: error: there are no arguments to ‘shared_ptr_to_consttant’ that depend on a template parameter, so a declaration of ‘shared_ptr_to_consttant’ must be available [-fpermissive]
+  shared_ptr_to_constant putValueIntoChar() { return shared_ptr_to_consttant(new numeric_int_const<char>(value));}
+                                                                                                               ^
+../src/tokenClasses.hpp:603:111: note: (if you use ‘-fpermissive’, G++ will accept your code, but allowing the use of an undeclared name is deprecated)
+../src/tokenClasses.hpp: In member function ‘ensc251::shared_ptr_to_constant ensc251::numeric_const<T>::putValueIntoFloat()’:
+../src/tokenClasses.hpp:604:113: error: there are no arguments to ‘shared_ptr_to_consttant’ that depend on a template parameter, so a declaration of ‘shared_ptr_to_consttant’ must be available [-fpermissive]
+  shared_ptr_to_constant putValueIntoFloat() { return shared_ptr_to_consttant(new numeric_int_const<float>(value));}
+                                                                                                                 ^
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+make: *** [src/TestPart5.o] Error 1
+01:24:06 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘ensc251::shared_ptr_to_constant ensc251::numeric_const<T>::putValueIntoChar()’:
+../src/tokenClasses.hpp:602:111: error: there are no arguments to ‘shared_ptr_to_consttant’ that depend on a template parameter, so a declaration of ‘shared_ptr_to_consttant’ must be available [-fpermissive]
+  shared_ptr_to_constant putValueIntoChar() { return shared_ptr_to_consttant(new numeric_int_const<char>(value));}
+                                                                                                               ^
+../src/tokenClasses.hpp:602:111: note: (if you use ‘-fpermissive’, G++ will accept your code, but allowing the use of an undeclared name is deprecated)
+../src/tokenClasses.hpp: In member function ‘ensc251::shared_ptr_to_constant ensc251::numeric_const<T>::putValueIntoFloat()’:
+../src/tokenClasses.hpp:603:113: error: there are no arguments to ‘shared_ptr_to_consttant’ that depend on a template parameter, so a declaration of ‘shared_ptr_to_consttant’ must be available [-fpermissive]
+  shared_ptr_to_constant putValueIntoFloat() { return shared_ptr_to_consttant(new numeric_int_const<float>(value));}
+                                                                                                                 ^
+make: *** [src/TestPart5.o] Error 1
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+01:24:40 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘ensc251::shared_ptr_to_constant ensc251::numeric_const<T>::putValueIntoChar()’:
+../src/tokenClasses.hpp:602:111: error: there are no arguments to ‘shared_ptr_to_consttant’ that depend on a template parameter, so a declaration of ‘shared_ptr_to_consttant’ must be available [-fpermissive]
+  shared_ptr_to_constant putValueIntoChar() { return shared_ptr_to_consttant(new numeric_int_const<char>(value));}
+                                                                                                               ^
+../src/tokenClasses.hpp:602:111: note: (if you use ‘-fpermissive’, G++ will accept your code, but allowing the use of an undeclared name is deprecated)
+../src/tokenClasses.hpp: In member function ‘ensc251::shared_ptr_to_constant ensc251::numeric_const<T>::putValueIntoFloat()’:
+../src/tokenClasses.hpp:603:113: error: there are no arguments to ‘shared_ptr_to_consttant’ that depend on a template parameter, so a declaration of ‘shared_ptr_to_consttant’ must be available [-fpermissive]
+  shared_ptr_to_constant putValueIntoFloat() { return shared_ptr_to_consttant(new numeric_int_const<float>(value));}
+                                                                                                                 ^
+make: *** [src/TestPart5.o] Error 1
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+01:25:49 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp: In instantiation of ‘ensc251::shared_ptr_to_constant ensc251::numeric_int_const<T>::mod(ensc251::constant&) [with T = float; ensc251::shared_ptr_to_constant = std::shared_ptr<ensc251::constant>]’:
+../src/tokenClasses.cpp:460:1:   required from here
+../src/tokenClasses.hpp:655:34: error: invalid operands of types ‘float’ and ‘int’ to binary ‘operator%’
+   return create(this->getValue() % right.getIntValue());
+                                  ^
+src/subdir.mk:27: recipe for target 'src/tokenClasses.o' failed
+make: *** [src/tokenClasses.o] Error 1
+01:26:39 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+01:27:36 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+01:27:47 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+01:28:11 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+01:28:27 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+01:36:47 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+../src/tokenClasses.cpp: In function ‘ensc251::shared_ptr_to_constant ensc251::create(float)’:
+../src/tokenClasses.cpp:450:59: error: invalid new-expression of abstract class type ‘ensc251::numeric_const<float>’
+   return shared_ptr_to_constant(new numeric_const<float>(v));
+                                                           ^
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp:595:7: note:   because the following virtual functions are pure within ‘ensc251::numeric_const<float>’:
+ class numeric_const:public constant
+       ^
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp:219:33: note: 	virtual ensc251::shared_ptr_to_constant ensc251::constant::addition()
+  virtual shared_ptr_to_constant addition() = 0;
+                                 ^
+make: *** [src/tokenClasses.o] Error 1
+src/subdir.mk:27: recipe for target 'src/tokenClasses.o' failed
+01:41:25 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+../src/tokenClasses.cpp: In function ‘ensc251::shared_ptr_to_constant ensc251::create(float)’:
+../src/tokenClasses.cpp:450:59: error: invalid new-expression of abstract class type ‘ensc251::numeric_const<float>’
+   return shared_ptr_to_constant(new numeric_const<float>(v));
+                                                           ^
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp:595:7: note:   because the following virtual functions are pure within ‘ensc251::numeric_const<float>’:
+ class numeric_const:public constant
+       ^
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp:219:33: note: 	virtual ensc251::shared_ptr_to_constant ensc251::constant::addition()
+  virtual shared_ptr_to_constant addition() = 0;
+                                 ^
+src/subdir.mk:27: recipe for target 'src/tokenClasses.o' failed
+make: *** [src/tokenClasses.o] Error 1
+01:42:01 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+../src/tokenClasses.cpp: In function ‘ensc251::shared_ptr_to_constant ensc251::create(float)’:
+../src/tokenClasses.cpp:450:59: error: invalid new-expression of abstract class type ‘ensc251::numeric_const<float>’
+   return shared_ptr_to_constant(new numeric_const<float>(v));
+                                                           ^
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp:595:7: note:   because the following virtual functions are pure within ‘ensc251::numeric_const<float>’:
+ class numeric_const:public constant
+       ^
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp:219:33: note: 	virtual ensc251::shared_ptr_to_constant ensc251::constant::addition()
+  virtual shared_ptr_to_constant addition() = 0;
+                                 ^
+src/subdir.mk:27: recipe for target 'src/tokenClasses.o' failed
+make: *** [src/tokenClasses.o] Error 1
+01:42:38 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘ensc251::shared_ptr_to_constant ensc251::numeric_int_const<T>::addition(ensc251::constant&)’:
+../src/tokenClasses.hpp:636:67: error: ‘value’ was not declared in this scope
+  shared_ptr_to_constant addition(constant& right) { return create(value + right.getIntValue());}
+                                                                   ^
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+make: *** [src/TestPart5.o] Error 1
+01:42:57 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+../src/tokenClasses.cpp: In function ‘ensc251::shared_ptr_to_constant ensc251::create(float)’:
+../src/tokenClasses.cpp:450:59: error: invalid new-expression of abstract class type ‘ensc251::numeric_const<float>’
+   return shared_ptr_to_constant(new numeric_const<float>(v));
+                                                           ^
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp:595:7: note:   because the following virtual functions are pure within ‘ensc251::numeric_const<float>’:
+ class numeric_const:public constant
+       ^
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp:219:33: note: 	virtual ensc251::shared_ptr_to_constant ensc251::constant::addition()
+  virtual shared_ptr_to_constant addition() = 0;
+                                 ^
+make: *** [src/tokenClasses.o] Error 1
+src/subdir.mk:27: recipe for target 'src/tokenClasses.o' failed
+01:47:44 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+01:49:15 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+02:01:24 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+02:01:39 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+02:02:36 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+02:02:51 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+02:08:52 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::additive_operator::eval()’:
+../src/tokenClasses.hpp:476:40: error: no matching function for call to ‘ensc251::constant::add(ensc251::constant&)’
+     return evalChildToken(1)->add(*left);
+                                        ^
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp:219:33: note: candidate: virtual ensc251::shared_ptr_to_constant ensc251::constant::add()
+  virtual shared_ptr_to_constant add() = 0;
+                                 ^
+../src/tokenClasses.hpp:219:33: note:   candidate expects 0 arguments, 1 provided
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp:478:40: error: no matching function for call to ‘ensc251::constant::add(ensc251::constant&)’
+     return evalChildToken(1)->add(*left);
+                                        ^
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp:219:33: note: candidate: virtual ensc251::shared_ptr_to_constant ensc251::constant::add()
+  virtual shared_ptr_to_constant add() = 0;
+                                 ^
+../src/tokenClasses.hpp:219:33: note:   candidate expects 0 arguments, 1 provided
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In function ‘ensc251::shared_ptr_to_constant ensc251::add(ensc251::constant&)’:
+../src/tokenClasses.hpp:629:69: error: invalid use of non-static data member ‘ensc251::numeric_const<T>::value’
+  friend shared_ptr_to_constant add(constant& right) { return create(value + right.getIntValue());}
+                                                                     ^
+../src/tokenClasses.hpp:606:4: note: declared here
+  T value;
+    ^
+make: *** [src/TestPart5.o] Error 1
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+02:09:09 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::additive_operator::eval()’:
+../src/tokenClasses.hpp:476:40: error: no matching function for call to ‘ensc251::constant::add(ensc251::constant&)’
+     return evalChildToken(1)->add(*left);
+                                        ^
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp:219:33: note: candidate: virtual ensc251::shared_ptr_to_constant ensc251::constant::add()
+  virtual shared_ptr_to_constant add() = 0;
+                                 ^
+../src/tokenClasses.hpp:219:33: note:   candidate expects 0 arguments, 1 provided
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp:478:40: error: no matching function for call to ‘ensc251::constant::add(ensc251::constant&)’
+     return evalChildToken(1)->add(*left);
+                                        ^
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp:219:33: note: candidate: virtual ensc251::shared_ptr_to_constant ensc251::constant::add()
+  virtual shared_ptr_to_constant add() = 0;
+                                 ^
+../src/tokenClasses.hpp:219:33: note:   candidate expects 0 arguments, 1 provided
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+make: *** [src/TestPart5.o] Error 1
+02:09:21 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::additive_operator::eval()’:
+../src/tokenClasses.hpp:476:40: error: no matching function for call to ‘ensc251::constant::add(ensc251::constant&)’
+     return evalChildToken(1)->add(*left);
+                                        ^
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp:219:33: note: candidate: virtual ensc251::shared_ptr_to_constant ensc251::constant::add()
+  virtual shared_ptr_to_constant add() = 0;
+                                 ^
+../src/tokenClasses.hpp:219:33: note:   candidate expects 0 arguments, 1 provided
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp:478:40: error: no matching function for call to ‘ensc251::constant::add(ensc251::constant&)’
+     return evalChildToken(1)->add(*left);
+                                        ^
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp:219:33: note: candidate: virtual ensc251::shared_ptr_to_constant ensc251::constant::add()
+  virtual shared_ptr_to_constant add() = 0;
+                                 ^
+../src/tokenClasses.hpp:219:33: note:   candidate expects 0 arguments, 1 provided
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+make: *** [src/TestPart5.o] Error 1
+02:13:40 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::additive_operator::eval()’:
+../src/tokenClasses.hpp:475:31: error: ‘class ensc251::constant’ has no member named ‘minus’
+     return evalChildToken(1)->minus(*left);
+                               ^
+../src/tokenClasses.hpp:477:31: error: ‘class ensc251::constant’ has no member named ‘add’
+     return evalChildToken(1)->add(*left);
+                               ^
+make: *** [src/TestPart5.o] Error 1
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+02:15:30 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+02:15:43 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+02:16:50 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+02:17:04 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+12:07:40 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+12:09:29 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+12:09:49 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+12:13:03 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+12:13:19 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+12:14:31 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+12:21:09 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::conditional_operator::eval()’:
+../src/tokenClasses.hpp:443:30: error: ‘class ensc251::constant’ has no member named ‘conditional’
+    return evalChildToken(1)->conditional(left,right);
+                              ^
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+make: *** [src/TestPart5.o] Error 1
+12:21:42 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::conditional_operator::eval()’:
+../src/tokenClasses.hpp:444:52: error: no matching function for call to ‘ensc251::constant::conditional(std::shared_ptr<ensc251::constant>&, std::shared_ptr<ensc251::constant>&)’
+    return evalChildToken(1)->conditional(left,right);
+                                                    ^
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp:222:33: note: candidate: virtual ensc251::shared_ptr_to_constant ensc251::constant::conditional()
+  virtual shared_ptr_to_constant conditional() = 0;
+                                 ^
+../src/tokenClasses.hpp:222:33: note:   candidate expects 0 arguments, 2 provided
+make: *** [src/TestPart5.o] Error 1
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+12:22:19 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::conditional_operator::eval()’:
+../src/tokenClasses.hpp:444:54: error: no matching function for call to ‘ensc251::constant::conditional(ensc251::constant&, ensc251::constant&)’
+    return evalChildToken(1)->conditional(*left,*right);
+                                                      ^
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp:222:33: note: candidate: virtual ensc251::shared_ptr_to_constant ensc251::constant::conditional()
+  virtual shared_ptr_to_constant conditional() = 0;
+                                 ^
+../src/tokenClasses.hpp:222:33: note:   candidate expects 0 arguments, 2 provided
+make: *** [src/TestPart5.o] Error 1
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+15:55:44 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+15:59:58 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::conditional_operator::eval()’:
+../src/tokenClasses.hpp:440:24: error: could not convert ‘ensc251::Token::evalChildToken(unsigned int)(0u).std::shared_ptr<ensc251::constant>::<anonymous>.std::__shared_ptr<_Tp, _Lp>::operator*<ensc251::constant, (__gnu_cxx::_Lock_policy)2u>()’ from ‘ensc251::constant’ to ‘bool’
+   if(*evalChildToken(0))
+                        ^
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+make: *** [src/TestPart5.o] Error 1
+16:01:20 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+16:01:39 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+16:11:34 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+../src/tokenClasses.cpp: In function ‘ensc251::shared_ptr_to_constant ensc251::create(float)’:
+../src/tokenClasses.cpp:450:59: error: invalid new-expression of abstract class type ‘ensc251::numeric_const<float>’
+   return shared_ptr_to_constant(new numeric_const<float>(v));
+                                                           ^
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp:614:7: note:   because the following virtual functions are pure within ‘ensc251::numeric_const<float>’:
+ class numeric_const:public constant
+       ^
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp:222:33: note: 	virtual ensc251::shared_ptr_to_constant ensc251::constant::conditional()
+  virtual shared_ptr_to_constant conditional() = 0;
+                                 ^
+make: *** [src/tokenClasses.o] Error 1
+src/subdir.mk:27: recipe for target 'src/tokenClasses.o' failed
+16:12:14 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+16:12:36 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+16:14:59 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::conditional_operator::eval()’:
+../src/tokenClasses.hpp:442:79: error: cannot convert ‘ensc251::constant::conditional’ from type ‘ensc251::shared_ptr_to_constant (ensc251::constant::)() {aka std::shared_ptr<ensc251::constant> (ensc251::constant::)()}’ to type ‘bool’
+   return evalChildToken(0)->conditional ? evalChildToken(2) : evalChildToken(1);
+                                                                               ^
+make: *** [src/TestPart5.o] Error 1
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+16:15:37 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::conditional_operator::eval()’:
+../src/tokenClasses.hpp:442:81: error: cannot convert ‘ensc251::constant::conditional’ from type ‘ensc251::shared_ptr_to_constant (ensc251::constant::)() {aka std::shared_ptr<ensc251::constant> (ensc251::constant::)()}’ to type ‘bool’
+   return (evalChildToken(0)->conditional) ? evalChildToken(2) : evalChildToken(1);
+                                                                                 ^
+make: *** [src/TestPart5.o] Error 1
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+16:16:25 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+16:16:38 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+20:26:44 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+20:27:44 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+20:29:10 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+20:29:37 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+20:32:27 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::conditional_operator::eval()’:
+../src/tokenClasses.hpp:442:51: error: cannot convert ‘ensc251::shared_ptr_to_constant {aka std::shared_ptr<ensc251::constant>}’ to ‘bool’ in initialization
+   bool condition = evalChildToken(0)->conditional();
+                                                   ^
+make: *** [src/TestPart5.o] Error 1
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+20:33:30 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+20:33:51 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+20:41:09 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+20:41:27 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+20:41:37 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:14 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+20:49:25 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+20:49:44 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+20:54:19 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+20:54:38 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+20:55:19 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+20:56:15 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp: In instantiation of ‘class ensc251::numeric_const<float>’:
+../src/tokenClasses.cpp:450:59:   required from here
+../src/tokenClasses.hpp:647:7: error: conflicting return type specified for ‘bool ensc251::numeric_const<T>::conditional() [with T = float]’
+  bool conditional()
+       ^
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp:222:33: error:   overriding ‘virtual ensc251::shared_ptr_to_constant ensc251::constant::conditional()’
+  virtual shared_ptr_to_constant conditional() = 0;
+                                 ^
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp: In instantiation of ‘class ensc251::numeric_const<int>’:
+../src/tokenClasses.hpp:662:7:   required from ‘class ensc251::numeric_int_const<int>’
+../src/tokenClasses.hpp:622:108:   required from ‘ensc251::shared_ptr_to_constant ensc251::numeric_const<T>::putValueIntoInt() [with T = float; ensc251::shared_ptr_to_constant = std::shared_ptr<ensc251::constant>]’
+../src/tokenClasses.cpp:460:1:   required from here
+../src/tokenClasses.hpp:647:7: error: conflicting return type specified for ‘bool ensc251::numeric_const<T>::conditional() [with T = int]’
+  bool conditional()
+       ^
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp:222:33: error:   overriding ‘virtual ensc251::shared_ptr_to_constant ensc251::constant::conditional()’
+  virtual shared_ptr_to_constant conditional() = 0;
+                                 ^
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp: In instantiation of ‘class ensc251::numeric_const<char>’:
+../src/tokenClasses.hpp:662:7:   required from ‘class ensc251::numeric_int_const<char>’
+../src/tokenClasses.hpp:623:110:   required from ‘ensc251::shared_ptr_to_constant ensc251::numeric_const<T>::putValueIntoChar() [with T = float; ensc251::shared_ptr_to_constant = std::shared_ptr<ensc251::constant>]’
+../src/tokenClasses.cpp:460:1:   required from here
+../src/tokenClasses.hpp:647:7: error: conflicting return type specified for ‘bool ensc251::numeric_const<T>::conditional() [with T = char]’
+  bool conditional()
+       ^
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp:222:33: error:   overriding ‘virtual ensc251::shared_ptr_to_constant ensc251::constant::conditional()’
+  virtual shared_ptr_to_constant conditional() = 0;
+                                 ^
+src/subdir.mk:27: recipe for target 'src/tokenClasses.o' failed
+make: *** [src/tokenClasses.o] Error 1
+20:56:42 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+20:57:00 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+20:58:17 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:00:56 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:02:48 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:04:19 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:04:35 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:04:55 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:05:11 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:05:33 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:05:42 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:06:30 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:07:09 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:07:47 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:07:58 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:10:01 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:10:18 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:10:38 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:10:48 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:15:28 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:15:45 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:16:25 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:22:19 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::gen_assignment_operator::eval()’:
+../src/tokenClasses.hpp:399:39: error: no match for ‘operator/=’ (operand types are ‘ensc251::shared_ptr_to_constant {aka std::shared_ptr<ensc251::constant>}’ and ‘ensc251::shared_ptr_to_constant {aka std::shared_ptr<ensc251::constant>}’)
+    case '/': return evalMap[key].sptc /= evalMap[key].ts.ofTypeCreateConstant(right); break;
+                                       ^
+../src/tokenClasses.hpp:400:39: error: no match for ‘operator+=’ (operand types are ‘ensc251::shared_ptr_to_constant {aka std::shared_ptr<ensc251::constant>}’ and ‘ensc251::shared_ptr_to_constant {aka std::shared_ptr<ensc251::constant>}’)
+    case '+': return evalMap[key].sptc += evalMap[key].ts.ofTypeCreateConstant(right);
+                                       ^
+../src/tokenClasses.hpp:401:39: error: no match for ‘operator-=’ (operand types are ‘ensc251::shared_ptr_to_constant {aka std::shared_ptr<ensc251::constant>}’ and ‘ensc251::shared_ptr_to_constant {aka std::shared_ptr<ensc251::constant>}’)
+    case '-': return evalMap[key].sptc -= evalMap[key].ts.ofTypeCreateConstant(right);
+                                       ^
+make: *** [src/TestPart5.o] Error 1
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+21:24:34 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:26:33 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:26:44 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:26:54 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:27:05 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:27:41 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:27:57 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:29:14 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:29:30 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:31:34 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:36:24 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:36:34 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:36:44 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:40:04 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:40:36 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:44:02 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:44:12 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:47:12 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:52:00 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:52:16 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:53:21 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:54:25 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:54:43 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:54:59 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:59:03 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:59:23 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+21:59:38 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+21:59:51 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:03:24 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:06:08 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:09:03 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:09:18 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:10:02 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:10:34 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:10:41 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:11:32 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:19:18 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:19:34 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:21:50 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:23:26 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:23:36 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:26:55 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:27:06 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:28:00 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:29:20 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::gen_assignment_operator::eval()’:
+../src/tokenClasses.hpp:397:67: error: break statement not within loop or switch
+   return mapEntry.sptc = mapEntry.ts.ofTypeCreateConstant(right); break;
+                                                                   ^
+../src/tokenClasses.hpp:393:8: warning: unused variable ‘assignment’ [-Wunused-variable]
+   auto assignment = this->stringValue[0];
+        ^
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+make: *** [src/TestPart5.o] Error 1
+22:30:00 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::gen_assignment_operator::eval()’:
+../src/tokenClasses.hpp:393:8: warning: unused variable ‘assignment’ [-Wunused-variable]
+   auto assignment = this->stringValue[0];
+        ^
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::gen_assignment_operator::eval()’:
+../src/tokenClasses.hpp:393:8: warning: unused variable ‘assignment’ [-Wunused-variable]
+   auto assignment = this->stringValue[0];
+        ^
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+In file included from ../src/tokenClassifier.cpp:37:0:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::gen_assignment_operator::eval()’:
+../src/tokenClasses.hpp:393:8: warning: unused variable ‘assignment’ [-Wunused-variable]
+   auto assignment = this->stringValue[0];
+        ^
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:30:23 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:31:10 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:31:28 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:32:30 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:32:48 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:32:54 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:34:04 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:34:22 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:39:00 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:43:28 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:43:44 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:44:31 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:45:24 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:53:58 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::gen_assignment_operator::eval()’:
+../src/tokenClasses.hpp:395:18: error: could not convert ‘ensc251::evalMap.std::map<_Key, _Tp, _Compare, _Alloc>::operator[]<std::__cxx11::basic_string<char>, ensc251::varInfo, std::less<std::__cxx11::basic_string<char> >, std::allocator<std::pair<const std::__cxx11::basic_string<char>, ensc251::varInfo> > >(key)’ from ‘std::map<std::__cxx11::basic_string<char>, ensc251::varInfo>::mapped_type {aka ensc251::varInfo}’ to ‘bool’
+   if(evalMap[key])
+                  ^
+../src/tokenClasses.hpp:396:9: warning: unused variable ‘val’ [-Wunused-variable]
+    auto val = evalMap[key].sptc->getIntValue();
+         ^
+make: *** [src/TestPart5.o] Error 1
+src/subdir.mk:27: recipe for target 'src/TestPart5.o' failed
+22:54:35 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:55:45 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:55:54 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:57:01 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:57:12 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+22:57:24 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+22:57:53 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+23:00:53 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+23:01:04 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+23:01:50 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+In file included from ../src/tokenClassifier.hpp:13:0,
+                 from ../src/TestPart5.cpp:36:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::gen_assignment_operator::eval()’:
+../src/tokenClasses.hpp:393:8: warning: unused variable ‘rightval’ [-Wunused-variable]
+   auto rightval = evalChildToken(1)->getIntValue();
+        ^
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+In file included from ../src/tokenClasses.cpp:36:0:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::gen_assignment_operator::eval()’:
+../src/tokenClasses.hpp:393:8: warning: unused variable ‘rightval’ [-Wunused-variable]
+   auto rightval = evalChildToken(1)->getIntValue();
+        ^
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+In file included from ../src/tokenClassifier.cpp:37:0:
+../src/tokenClasses.hpp: In member function ‘virtual ensc251::shared_ptr_to_constant ensc251::gen_assignment_operator::eval()’:
+../src/tokenClasses.hpp:393:8: warning: unused variable ‘rightval’ [-Wunused-variable]
+   auto rightval = evalChildToken(1)->getIntValue();
+        ^
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+23:02:05 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+23:04:46 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+23:11:26 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+23:12:04 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+23:12:55 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+23:13:22 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+23:13:30 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+23:13:44 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+23:13:55 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+23:18:47 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+23:18:58 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+23:21:01 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+23:21:18 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+23:23:40 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+23:24:00 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+23:26:25 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+23:30:48 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+23:31:05 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+23:32:07 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+Building file: ../src/TestPart5.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart5.d" -MT"src/TestPart5.o" -o "src/TestPart5.o" "../src/TestPart5.cpp"
+Finished building: ../src/TestPart5.cpp
+ 
+Building file: ../src/TreeNode.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TreeNode.d" -MT"src/TreeNode.o" -o "src/TreeNode.o" "../src/TreeNode.cpp"
+Finished building: ../src/TreeNode.cpp
+ 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part5-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part5-1174"  ./src/TestPart5.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part5-1174
+ 
+23:32:26 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+23:35:57 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.
+23:36:15 **** Incremental Build of configuration Debug for project Part4-1174 ****
+make all 
+Building file: ../src/tokenClasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClasses.d" -MT"src/tokenClasses.o" -o "src/tokenClasses.o" "../src/tokenClasses.cpp"
+Finished building: ../src/tokenClasses.cpp
+ 
+Building target: Part4-1174.exe
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part4-1174.exe"  ./src/TestPart4.o ./src/TreeNode.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part4-1174.exe
+ 
+23:36:37 **** Incremental Build of configuration Debug for project Part3-1174 ****
+make all 
+Building file: ../src/Test.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -DUSE_OSS -I"/usr/include" -O0 -g3 -c -fmessage-length=0 -MMD -MP -MF"src/Test.d" -MT"src/Test.o" -o "src/Test.o" "../src/Test.cpp"
+Finished building: ../src/Test.cpp
+ 
+Building file: ../src/TreeNode.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -DUSE_OSS -I"/usr/include" -O0 -g3 -c -fmessage-length=0 -MMD -MP -MF"src/TreeNode.d" -MT"src/TreeNode.o" -o "src/TreeNode.o" "../src/TreeNode.cpp"
+Finished building: ../src/TreeNode.cpp
+ 
+Building file: ../src/makeDirectoryTree.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -DUSE_OSS -I"/usr/include" -O0 -g3 -c -fmessage-length=0 -MMD -MP -MF"src/makeDirectoryTree.d" -MT"src/makeDirectoryTree.o" -o "src/makeDirectoryTree.o" "../src/makeDirectoryTree.cpp"
+Finished building: ../src/makeDirectoryTree.cpp
+ 
+Building target: Part3-1174
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part3-1174"  ./src/Test.o ./src/TreeNode.o ./src/makeDirectoryTree.o   -l"boost_unit_test_framework" -l"boost_system" -l"boost_filesystem"
+Finished building target: Part3-1174
+ 
+23:37:08 **** Incremental Build of configuration Debug for project Part2 ****
+make all 
+Building file: ../src/tokenClassifier.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++1y -I"/usr/include" -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/tokenClassifier.d" -MT"src/tokenClassifier.o" -o "src/tokenClassifier.o" "../src/tokenClassifier.cpp"
+In file included from ../src/tokenClassifier.cpp:37:0:
+../src/tokenClasses.hpp: In constructor ‘ensc251::StringBasedToken::StringBasedToken(const string&, int, int)’:
+../src/tokenClasses.hpp:36:14: warning: ‘ensc251::StringBasedToken::stringValue’ will be initialized after [-Wreorder]
+  std::string stringValue;
+              ^
+../src/tokenClasses.hpp:39:129: warning:   base ‘ensc251::Token’ [-Wreorder]
+  StringBasedToken(const std::string &aStringValue, int lineNum, int indexNum):stringValue(aStringValue), Token(lineNum, indexNum){};
+                                                                                                                                 ^
+../src/tokenClasses.hpp:39:2: warning:   when initialized here [-Wreorder]
+  StringBasedToken(const std::string &aStringValue, int lineNum, int indexNum):stringValue(aStringValue), Token(lineNum, indexNum){};
+  ^
+Finished building: ../src/tokenClassifier.cpp
+ 
+Building target: Part2
+Invoking: GCC C++ Linker
+g++ -L"/usr/lib/x86_64-linux-gnu" -o "Part2"  ./src/TestPart2.o ./src/tokenClasses.o ./src/tokenClassifier.o   -l"boost_unit_test_framework"
+Finished building target: Part2
+ 
+23:37:29 **** Incremental Build of configuration Debug for project Part5-1174 ****
+make all 
+make: Nothing to be done for 'all'.

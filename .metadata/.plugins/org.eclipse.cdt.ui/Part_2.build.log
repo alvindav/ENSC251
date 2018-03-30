@@ -1,0 +1,131 @@
+17:18:01 **** Incremental Build of configuration Debug for project Part_2 ****
+make all 
+make: Warning: File 'src/subdir.mk' has modification time 2.4 s in the future
+Building file: ../src/TestPart2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TestPart2.d" -MT"src/TestPart2.o" -o "src/TestPart2.o" "../src/TestPart2.cpp"
+../src/TestPart2.cpp: In function ‘void ensc251::check(std::__cxx11::string, std::vector<ensc251::tokenStruct>)’:
+../src/TestPart2.cpp:72:5: error: ‘numeric_const’ is not a member of ‘ensc251’
+     ensc251::numeric_const<int> *intToken = dynamic_cast<ensc251::numeric_int_const<int> *>(tokenObjects.at(i));
+     ^
+../src/TestPart2.cpp:72:28: error: expected primary-expression before ‘int’
+     ensc251::numeric_const<int> *intToken = dynamic_cast<ensc251::numeric_int_const<int> *>(tokenObjects.at(i));
+                            ^
+In file included from /usr/include/boost/test/unit_test.hpp:19:0,
+                 from ../src/TestPart2.cpp:39:
+../src/TestPart2.cpp:73:23: error: ‘intToken’ was not declared in this scope
+     BOOST_CHECK_EQUAL(intToken->getValue(), atoi(tokens.at(i).tokenValue.c_str()));
+                       ^
+../src/TestPart2.cpp:74:23: error: ‘intToken’ was not declared in this scope
+     BOOST_CHECK_EQUAL(intToken->getLineNumber(), tokens.at(i).lineNumber);
+                       ^
+../src/TestPart2.cpp:75:23: error: ‘intToken’ was not declared in this scope
+     BOOST_CHECK_EQUAL(intToken->getIndexNumber(), tokens.at(i).indexNumber);
+                       ^
+../src/TestPart2.cpp:79:5: error: ‘numeric_const’ is not a member of ‘ensc251’
+     ensc251::numeric_const<float> *floatToken = dynamic_cast<ensc251::numeric_const<float> *>(tokenObjects.at(i));
+     ^
+../src/TestPart2.cpp:79:28: error: expected primary-expression before ‘float’
+     ensc251::numeric_const<float> *floatToken = dynamic_cast<ensc251::numeric_const<float> *>(tokenObjects.at(i));
+                            ^
+In file included from /usr/include/boost/test/unit_test.hpp:19:0,
+                 from ../src/TestPart2.cpp:39:
+../src/TestPart2.cpp:80:23: error: ‘floatToken’ was not declared in this scope
+     BOOST_CHECK_EQUAL(floatToken->getValue(), (float)atof(tokens.at(i).tokenValue.c_str()) );
+                       ^
+../src/TestPart2.cpp:81:23: error: ‘floatToken’ was not declared in this scope
+     BOOST_CHECK_EQUAL(floatToken->getLineNumber(), tokens.at(i).lineNumber);
+                       ^
+../src/TestPart2.cpp:82:23: error: ‘floatToken’ was not declared in this scope
+     BOOST_CHECK_EQUAL(floatToken->getIndexNumber(), tokens.at(i).indexNumber);
+                       ^
+../src/TestPart2.cpp:86:5: error: ‘numeric_const’ is not a member of ‘ensc251’
+     ensc251::numeric_const<char> *charToken = dynamic_cast<ensc251::numeric_int_const<char> *>(tokenObjects.at(i));
+     ^
+../src/TestPart2.cpp:86:28: error: expected primary-expression before ‘char’
+     ensc251::numeric_const<char> *charToken = dynamic_cast<ensc251::numeric_int_const<char> *>(tokenObjects.at(i));
+                            ^
+In file included from /usr/include/boost/test/unit_test.hpp:19:0,
+                 from ../src/TestPart2.cpp:39:
+../src/TestPart2.cpp:87:23: error: ‘charToken’ was not declared in this scope
+     BOOST_CHECK_EQUAL(charToken->getValue(),  tokens.at(i).tokenValue.at(1));
+                       ^
+../src/TestPart2.cpp:88:23: error: ‘charToken’ was not declared in this scope
+     BOOST_CHECK_EQUAL(charToken->getLineNumber(), tokens.at(i).lineNumber);
+                       ^
+../src/TestPart2.cpp:89:23: error: ‘charToken’ was not declared in this scope
+     BOOST_CHECK_EQUAL(charToken->getIndexNumber(), tokens.at(i).indexNumber);
+                       ^
+../src/TestPart2.cpp: In member function ‘void ensc251::test1::test_method()’:
+../src/TestPart2.cpp:114:46: error: in C++98 ‘tokens’ must be initialized by constructor, not by ‘{...}’
+           {";", 0, 10, "ensc251::punctuator"}};
+                                              ^
+../src/TestPart2.cpp: In substitution of ‘template<class _InputIterator> std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = <missing>]’:
+../src/TestPart2.cpp:114:46:   required from here
+../src/TestPart2.cpp:114:46: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11
+../src/TestPart2.cpp:114:46: error: could not convert ‘{{"int", 0, 0, "ensc251::type_spec"}, {"a", 0, 4, "ensc251::int_id"}, {"=", 0, 6, "ensc251::gen_assignment_operator"}, {"2", 0, 8, "ensc251::numeric_int_const<int>"}, {";", 0, 10, "ensc251::punctuator"}}’ from ‘<brace-enclosed initializer list>’ to ‘std::vector<ensc251::tokenStruct>’
+../src/TestPart2.cpp: In member function ‘void ensc251::test2::test_method()’:
+../src/TestPart2.cpp:124:46: error: in C++98 ‘tokens’ must be initialized by constructor, not by ‘{...}’
+           {";", 0, 13, "ensc251::punctuator"}};
+                                              ^
+../src/TestPart2.cpp: In substitution of ‘template<class _InputIterator> std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = <missing>]’:
+../src/TestPart2.cpp:124:46:   required from here
+../src/TestPart2.cpp:124:46: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11
+../src/TestPart2.cpp:124:46: error: could not convert ‘{{"char", 0, 0, "ensc251::type_spec"}, {"c", 0, 5, "ensc251::int_id"}, {"=", 0, 7, "ensc251::gen_assignment_operator"}, {"\'c\'", 0, 9, "ensc251::numeric_int_const<char>"}, {";", 0, 13, "ensc251::punctuator"}}’ from ‘<brace-enclosed initializer list>’ to ‘std::vector<ensc251::tokenStruct>’
+../src/TestPart2.cpp: In member function ‘void ensc251::test3::test_method()’:
+../src/TestPart2.cpp:138:46: error: in C++98 ‘tokens’ must be initialized by constructor, not by ‘{...}’
+           {";", 0, 36, "ensc251::punctuator"}};
+                                              ^
+../src/TestPart2.cpp: In substitution of ‘template<class _InputIterator> std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = <missing>]’:
+../src/TestPart2.cpp:138:46:   required from here
+../src/TestPart2.cpp:138:46: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11
+../src/TestPart2.cpp:138:46: error: could not convert ‘{{"float", 0, 0, "ensc251::type_spec"}, {"_fnumber", 0, 6, "ensc251::numeric_id"}, {";", 0, 14, "ensc251::punctuator"}, {"_fnumber", 0, 16, "ensc251::numeric_id"}, {"+=", 0, 25, "ensc251::gen_assignment_operator"}, {"10.5", 0, 28, "ensc251::numeric_const<float>"}, {"%", 0, 33, "ensc251::mod_operator"}, {"5", 0, 35, "ensc251::numeric_int_const<int>"}, {";", 0, 36, "ensc251::punctuator"}}’ from ‘<brace-enclosed initializer list>’ to ‘std::vector<ensc251::tokenStruct>’
+../src/TestPart2.cpp: In member function ‘void ensc251::test4::test_method()’:
+../src/TestPart2.cpp:151:46: error: in C++98 ‘tokens’ must be initialized by constructor, not by ‘{...}’
+           {";", 0, 27, "ensc251::punctuator"}};
+                                              ^
+../src/TestPart2.cpp: In substitution of ‘template<class _InputIterator> std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = <missing>]’:
+../src/TestPart2.cpp:151:46:   required from here
+../src/TestPart2.cpp:151:46: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11
+../src/TestPart2.cpp:151:46: error: could not convert ‘{{"char", 0, 0, "ensc251::type_spec"}, {"Int", 0, 5, "ensc251::int_id"}, {"=", 0, 9, "ensc251::gen_assignment_operator"}, {"errno", 0, 11, "ensc251::int_id"}, {"?", 0, 17, "ensc251::conditional_operator"}, {"10", 0, 19, "ensc251::numeric_int_const<int>"}, {":", 0, 22, "ensc251::punctuator"}, {"20", 0, 24, "ensc251::numeric_int_const<int>"}, {";", 0, 27, "ensc251::punctuator"}}’ from ‘<brace-enclosed initializer list>’ to ‘std::vector<ensc251::tokenStruct>’
+../src/TestPart2.cpp: In member function ‘void ensc251::test5::test_method()’:
+../src/TestPart2.cpp:162:46: error: in C++98 ‘tokens’ must be initialized by constructor, not by ‘{...}’
+           {";", 0, 19, "ensc251::punctuator"}};
+                                              ^
+../src/TestPart2.cpp: In substitution of ‘template<class _InputIterator> std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = <missing>]’:
+../src/TestPart2.cpp:162:46:   required from here
+../src/TestPart2.cpp:162:46: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11
+../src/TestPart2.cpp:162:46: error: could not convert ‘{{"a", 0, 0, "ensc251::int_id"}, {"<<=", 0, 6, "ensc251::int_assignment_operator"}, {"\'2\'", 0, 10, "ensc251::numeric_int_const<char>"}, {">>", 0, 14, "ensc251::shift_operator"}, {"5", 0, 17, "ensc251::numeric_int_const<int>"}, {";", 0, 19, "ensc251::punctuator"}}’ from ‘<brace-enclosed initializer list>’ to ‘std::vector<ensc251::tokenStruct>’
+../src/TestPart2.cpp: In member function ‘void ensc251::test6::test_method()’:
+../src/TestPart2.cpp:179:46: error: in C++98 ‘tokens’ must be initialized by constructor, not by ‘{...}’
+           {";", 1, 22, "ensc251::punctuator"}};
+                                              ^
+../src/TestPart2.cpp: In substitution of ‘template<class _InputIterator> std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = <missing>]’:
+../src/TestPart2.cpp:179:46:   required from here
+../src/TestPart2.cpp:179:46: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11
+../src/TestPart2.cpp:179:46: error: could not convert ‘{{"float", 0, 0, "ensc251::type_spec"}, {"_f", 0, 6, "ensc251::numeric_id"}, {";", 0, 8, "ensc251::punctuator"}, {"f", 1, 0, "ensc251::numeric_id"}, {"=", 1, 2, "ensc251::gen_assignment_operator"}, {"39E-2", 1, 4, "ensc251::numeric_const<float>"}, {"-", 1, 10, "ensc251::additive_operator"}, {"(", 1, 12, "ensc251::punctuator"}, {"_f", 1, 14, "ensc251::numeric_id"}, {"++", 1, 17, "ensc251::postfix_operator"}, {")", 1, 20, "ensc251::punctuator"}, {";", 1, 22, "ensc251::punctuator"}}’ from ‘<brace-enclosed initializer list>’ to ‘std::vector<ensc251::tokenStruct>’
+../src/TestPart2.cpp: In member function ‘void ensc251::test7::test_method()’:
+../src/TestPart2.cpp:190:46: error: in C++98 ‘tokens’ must be initialized by constructor, not by ‘{...}’
+           {";", 0, 27, "ensc251::punctuator"}};
+                                              ^
+../src/TestPart2.cpp: In substitution of ‘template<class _InputIterator> std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = <missing>]’:
+../src/TestPart2.cpp:190:46:   required from here
+../src/TestPart2.cpp:190:46: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11
+../src/TestPart2.cpp:190:46: error: could not convert ‘{{"char", 0, 0, "ensc251::type_spec"}, {"*", 0, 4, "ensc251::punctuator"}, {"_str", 0, 6, "ensc251::pointer_id"}, {"=", 0, 11, "ensc251::gen_assignment_operator"}, {"\"Hello World\"", 0, 13, "ensc251::string"}, {";", 0, 27, "ensc251::punctuator"}}’ from ‘<brace-enclosed initializer list>’ to ‘std::vector<ensc251::tokenStruct>’
+../src/TestPart2.cpp: In member function ‘void ensc251::test8::test_method()’:
+../src/TestPart2.cpp:201:52: error: in C++98 ‘tokens’ must be initialized by constructor, not by ‘{...}’
+src/subdir.mk:24: recipe for target 'src/TestPart2.o' failed
+           {"\"test ;", 0, 13, "ensc251::incorrect"}};
+                                                    ^
+../src/TestPart2.cpp: In substitution of ‘template<class _InputIterator> std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&) [with _InputIterator = <missing>]’:
+../src/TestPart2.cpp:201:52:   required from here
+../src/TestPart2.cpp:201:52: warning: extended initializer lists only available with -std=c++11 or -std=gnu++11
+../src/TestPart2.cpp:201:52: error: could not convert ‘{{"char", 0, 0, "ensc251::type_spec"}, {"*", 0, 4, "ensc251::punctuator"}, {"err", 0, 6, "ensc251::pointer_id"}, {"&", 0, 10, "ensc251::incorrect"}, {"=", 0, 11, "ensc251::gen_assignment_operator"}, {"\"test ;", 0, 13, "ensc251::incorrect"}}’ from ‘<brace-enclosed initializer list>’ to ‘std::vector<ensc251::tokenStruct>’
+../src/TestPart2.cpp: At global scope:
+../src/TestPart2.cpp:203:1: error: expected ‘}’ at end of input
+ }
+ ^
+make: *** [src/TestPart2.o] Error 1
+
+17:18:06 Build Finished (took 5s.182ms)
+
